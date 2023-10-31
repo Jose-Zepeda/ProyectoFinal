@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="formularios.formulario">
+  <grid id="27dc6" binding="panel1" default-binding="true" layout-manager="BorderLayout" hgap="0" vgap="0">
+    <constraints>
+      <xy x="20" y="20" width="403" height="670"/>
+    </constraints>
+    <properties>
+      <enabled value="true"/>
+      <inheritsPopupMenu value="false"/>
+    </properties>
+    <border type="none"/>
+    <children>
+      <component id="17013" class="javax.swing.JLabel">
+        <constraints border-constraint="Center"/>
+        <properties>
+          <enabled value="true"/>
+          <icon value="images/logindefinitivo.png"/>
+          <text value=""/>
+        </properties>
+      </component>
+    </children>
+  </grid>
+</form>
